@@ -1,0 +1,13 @@
+C:\Users\duart\OneDrive\Documentos\c#\obj\Debug\netcoreapp3.1\cs.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Documentos\c#\obj\Debug\netcoreapp3.1\cs.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Documentos\c#\obj\Debug\netcoreapp3.1\cs.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Documentos\c#\obj\Debug\netcoreapp3.1\cs.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Documentos\c#\bin\Debug\netcoreapp3.1\cs.exe
+C:\Users\duart\OneDrive\Documentos\c#\bin\Debug\netcoreapp3.1\cs.deps.json
+C:\Users\duart\OneDrive\Documentos\c#\bin\Debug\netcoreapp3.1\cs.runtimeconfig.json
+C:\Users\duart\OneDrive\Documentos\c#\bin\Debug\netcoreapp3.1\cs.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Documentos\c#\bin\Debug\netcoreapp3.1\cs.dll
+C:\Users\duart\OneDrive\Documentos\c#\bin\Debug\netcoreapp3.1\cs.pdb
+C:\Users\duart\OneDrive\Documentos\c#\obj\Debug\netcoreapp3.1\cs.dll
+C:\Users\duart\OneDrive\Documentos\c#\obj\Debug\netcoreapp3.1\cs.pdb
+C:\Users\duart\OneDrive\Documentos\c#\obj\Debug\netcoreapp3.1\cs.genruntimeconfig.cache
